@@ -2,4 +2,4 @@ pyopencl
 numpy
 matplotlib
 pygame
-sympy
+sympy == 1.11
